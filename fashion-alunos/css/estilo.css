@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: tahoma,arial,sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+/*ESTILO DA ÁREA PRINCIPAL*/
+#principal{
+	width: 1024px;
+	margin: 20px auto;
+}
+
+/*ESTILO DO TOPO DO CABEÇALHO*/
+.header-top{
+	height: 50px;
+	background: #162028;
+	position: relative;
+}
+
+/*ESTILO DA LOGOMARCA*/
+.logotipo{
+	margin: 8px 0 0 135px;
+}
+
+/*ESTILO DA NAVEGAÇÃO*/
+.header-nav{
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 100%;
+	
+}
+
+.header-nav ul{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
